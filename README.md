@@ -2,23 +2,16 @@
 
 Code accompanying the manuscript “Dissecting the major determinants of cerebellar developmental transcriptomic organization using cosine-MDS.”
 
-This repository contains the analysis scripts used to characterize developmental changes in transcriptomic landscape organization using single-nucleus RNA-sequencing data from the mouse cerebellum.
+This repository contains scripts used for the analysis of developmental single-nucleus RNA-seq data from the mouse cerebellum.
 
-Analyses
+### Analysis
 
-The repository includes code for:
+Scripts are provided for cosine-MDS construction, SSIM-based comparison of developmental landscapes, composition-capped and population exclusion analyses, pseudobulk transcriptomic dissimilarity, pseudotime and optimal transport analyses, and robustness tests.
 
-cosine-MDS construction
-developmental landscape comparison using SSIM
-composition-capped analyses
-annotation-wise and population-wise exclusion analyses
-pseudobulk transcriptomic dissimilarity analysis
-pseudotime and optimal transport analyses
-robustness analyses
-Data availability
+### Data availability
 
-The single-cell and single-nucleus RNA-sequencing datasets analyzed in this study are publicly available and are described in the accompanying manuscript.
+The datasets used in this study are publicly available. Dataset information and accession details are provided in the manuscript.
 
-Citation
+### Citation
 
 Citation information will be added upon publication.
